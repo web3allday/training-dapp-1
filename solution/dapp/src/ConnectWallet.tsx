@@ -70,7 +70,7 @@ const ConnectButton = ({
     <div className="buttons">
       <button className="button" onClick={connectWallet}>
         <span>
-          <i className="fas fa-wallet"></i>&nbsp; Connect with wallet
+          <i className="fas fa-wallet"></i>&nbsp; Connect wallet
         </span>
       </button>
     </div>
